@@ -4,14 +4,21 @@
   <meta charset="UTF-8">
   <title>Hernandez y Tremendancias</title>
   <link rel="stylesheet" href="css/estilo.css">
+  <img src="img/logo.png" class="logo-principal">
+
 </head>
 <body>
 
 <header>
   <h1>Hernandez y Tremendancias</h1>
   <nav>
-    <a href="adivina/index.php">Adivina Quién</a>
-    <a href="premios/index.php">Premiaciones</a>
+   <nav>
+  <a href="adivina/index.php">Adivina Quién</a>
+  <a href="premios/index.php">Premiaciones</a>
+  <a href="auth/login.php">Entrar</a>
+  <a href="auth/registro.php">Registro</a>
+</nav>
+
   </nav>
 </header>
 
